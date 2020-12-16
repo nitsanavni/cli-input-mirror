@@ -2,3 +2,5 @@
 begin-app
 
 @static
+
+@ws
